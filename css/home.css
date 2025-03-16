@@ -383,6 +383,10 @@ footer {
         gap: 0 1rem;
     }
     
+    .papa-list {
+        display: flex;
+        margin-left: 1rem;
+    }
 
     .main-content {
         width: 100vw;
