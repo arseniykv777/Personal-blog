@@ -123,6 +123,9 @@ main {
     transition: opacity 0.3s;
 }
 
+.papa-list {
+    display: none;
+}
 
 
 .main-text-cont__p {
